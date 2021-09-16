@@ -2,4 +2,4 @@
 link to website
 https://davidsiegmann.github.io/code-refactor/
 
-!{alt= picture of deployed website} "C:\Users\David\Desktop\Deployed website.png"
+![alt text]path(C:\Users\David\Desktop\Deployed website.png")
